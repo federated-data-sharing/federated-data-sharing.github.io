@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Welcome"
+permalink: /
+---
 # Federated Data Sharing Common API
 
 Web page for the Federated Data Sharing Common API
